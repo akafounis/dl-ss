@@ -20,4 +20,4 @@ Given RGB photo: \
 and the Depth photo: \
 ![alt text](SS-Result-1.jpg)
 
-Pytorch was used for the development of the model.
+PyTorch was used for the development of the model.
