@@ -13,10 +13,8 @@ The final model delivered an accuracy of **82.79 %**
 
 Results:
 
-Given RGB photo: \
 ![alt text](SS-Result-1.jpg)
 
-and the Depth photo: \
 ![alt text](SS-Result-1.jpg)
 
 PyTorch was used for the development of the model.
