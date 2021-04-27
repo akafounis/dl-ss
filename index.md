@@ -15,6 +15,6 @@ Results:
 
 ![alt text](SS-Result-1.jpg)
 
-![alt text](SS-Result-1.jpg)
+![alt text](SS-Result-2.jpg)
 
 PyTorch was used for the development of the model.
