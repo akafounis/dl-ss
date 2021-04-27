@@ -1,7 +1,6 @@
-# Semantic Segmentation (MSRC-v2 Segmentation Dataset)
 
 
-The goal of this project is to build a deep learning model that is able to correctly classify each pixel of the image. The MSRC-v2 Dataset contains 591 Images and 23 different objects (classes). 
+The goal of this project is to build a deep learning model that is able to correctly classify each pixel of the image. The **MSRC-v2 Dataset** was used for training and testing the model. It contains 591 Images and 23 different objects (classes). 
 The Model consists of two parts: 
 
 1. Encoder
